@@ -1,0 +1,19 @@
+#feed {
+ background-color: lightblue;
+}
+#play {
+ background-color: pink;
+}
+#sleep {
+ background-color: lightseagreen;
+}
+#battle {
+ background-color: lavenderblush;
+}
+#restart {
+ background-color: hotpink;
+}
+.boxed {
+ border: 5px solid hotpink ;
+ width: 20%;
+}
